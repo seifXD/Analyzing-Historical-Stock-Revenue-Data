@@ -1,4 +1,3 @@
-
 # Analyzing Historical Stock Revenue Data
 
 This project focuses on analyzing historical stock data and revenue trends for publicly traded companies. Using Python and various data analysis tools, the aim is to uncover insights about stock performance and revenue patterns over time.
@@ -70,4 +69,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
