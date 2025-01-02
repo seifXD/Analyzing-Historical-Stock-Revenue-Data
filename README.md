@@ -16,9 +16,9 @@ This project focuses on analyzing historical stock revenue data to uncover patte
 
 ## Tools and Technologies
 
-- **Python:** Used for data manipulation, analysis, and visualization.
-- **Pandas:** For handling and processing large datasets.
-- **Matplotlib & Seaborn:** For creating detailed and aesthetically pleasing visualizations.
+- **Python**: Used for data manipulation, analysis, and visualization.
+- **Pandas**: For handling and processing large datasets.
+- **Matplotlib & Seaborn**: For creating detailed and aesthetically pleasing visualizations.
 
 ## Dataset
 
